@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
  <h3> Dynatrace </h3>
  <h3> Azure </h3>
  <h3> AWS </h3>
- <h3>> Oralce Foudations Associate </h3>>
+ <h3> Oralce Foudations Associate </h3>>
