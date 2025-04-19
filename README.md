@@ -7,12 +7,11 @@
 - ☁️ Partner Planning an AWS Outposts Implementation 
 - ☁️ AWS Partner: Vmware Cloud on AWS (Business)
 
-- 
-- 
+
 
 
 <!---
 adnamoliveira/adnamoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Tecnologias
+ <h2>Tecnologias </h2>
