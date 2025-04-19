@@ -1,5 +1,6 @@
 - 👋 Olá, Meu nome é Adnam Oliveira, tenho 42 anos sou Administrador de Sistemas
 - 👀 Estou ampliando meu conhecimento na área de Cloud e Segurança
+- Possuo as seguintes Certificação e Acreditação.
 - ♾️ Certificação Microsoft Certificado Profissional
 - ☁️ Certificação OCI Foundations Associate
 - ♾️ Certificação Cybersecurity awareness
